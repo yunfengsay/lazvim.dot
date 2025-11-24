@@ -1,4 +1,3 @@
 return {
-  -- Java language support
-  { import = "lazyvim.plugins.extras.lang.java" },
+  -- Java 语言相关插件可在此拓展
 }

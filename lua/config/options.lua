@@ -10,3 +10,6 @@ vim.opt.number = true
 vim.opt.cursorline = false
 vim.opt.scrolloff = 0
 vim.g.snacks_animate = false
+
+-- Fix popup menu background
+vim.opt.pumblend = 0

@@ -1,4 +1,3 @@
 return {
-  -- Go language support
-  { import = "lazyvim.plugins.extras.lang.go" },
+  -- Go 语言相关定制可在此追加
 }
